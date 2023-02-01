@@ -9,6 +9,8 @@ Works with Big Sur 11.6.5. Other editions have not been tests.
 
 What files are:
 
-plist: executable file that will run the config to help you install MACOS
+plist: executable file that will run the config to help you install MACOS all changes with files can be viewed through here
 
 SSDTs, Kexts: Are both modifiables installed that install unbuilt MACOS firmware drivers and solves software bugs do to differences in hardware
+
+BOOT EFI: Will run config.plist to BOOT into macos 
